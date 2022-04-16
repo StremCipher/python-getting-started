@@ -1,5 +1,5 @@
 # Python: Getting Started
-
+## this is official repo about how to deploy django site on heroku
 A barebones Django app, which can easily be deployed to Heroku.
 
 This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out for instructions on how to deploy this app to Heroku and also run it locally.
